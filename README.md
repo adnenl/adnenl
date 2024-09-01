@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an enthusiastic and results-driven IT student currently pursuing a Bachelor's degree in Information Technology at OsloMet. With over 2 years of hands-on experience in programming and development, I'm passionate about building robust and scalable solutions.
 
-### 🧰 Languages and Tools
+### 💻 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -45,7 +45,7 @@ I'm an enthusiastic and results-driven IT student currently pursuing a Bachelor'
 I'm always looking to expand my knowledge in the IT field. Currently, I'm diving deeper into full-stack web applications, computer security and the field of AI.
 
 ### 💬 Let's Connect
-- **LinkedIn:** [Ådne Nilsen Longva](https://linkedin.com)
+- **LinkedIn:** [Ådne Nilsen Longva](https://www.linkedin.com/in/%C3%A5dne-longva-7275b8266/)
 - **Email:** [adnelongva@gmail.com](mailto:adnelongva@gmail.com)
 
 I'm open to collaborations on exciting projects, internships, and new opportunities. Feel free to reach out!
