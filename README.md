@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Ådne Nilsen Longva
 
-I'm an enthusiastic and results-driven IT student currently pursuing a Bachelor's degree in Information Technology at OsloMet. With over 2 years of hands-on experience in programming and development, I'm passionate about building robust and scalable solutions.
+I'm an IT student currently pursuing a Bachelor's degree in Information Technology at OsloMet. With over 2 years of hands-on experience in programming and development, I'm have ambitions about building robust and scalable solutions.
 
 ### 💻 Languages and Tools
 
@@ -37,7 +37,7 @@ I'm an enthusiastic and results-driven IT student currently pursuing a Bachelor'
 
 ### 🎓 Education
 - **Bachelor's in Information Technology, OsloMet (2022 – 2025)**
-  - Courses: Web Programming, Databases, Algorithms and Data Structures, Operating Systems
+  - Courses: Web Programming, Databases, Algorithms and Data Structures, Operating Systems etc.
   - Current GPA: 4.52
 
 ### 🌱 What I’m currently learning
