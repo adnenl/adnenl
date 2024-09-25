@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Ådne Nilsen Longva
 
-I'm an IT student currently pursuing a Bachelor's degree in Information Technology at OsloMet. With over 2 years of hands-on experience in programming and development, I'm have ambitions about building robust and scalable solutions.
+I'm an IT student currently pursuing a Bachelor's degree in Information Technology at OsloMet. With over 2 years of hands-on experience in programming and development, I have ambitions about building robust and scalable solutions.
 
 ### 💻 Languages and Tools
 
