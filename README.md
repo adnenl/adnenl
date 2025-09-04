@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on my last year of a Bachelor's degree in Information Technology at OsloMet <br>🌱 I’m currently learning Next.js & full-stack development<br>🔍 I’m looking for opportunities in IT & software development<br>
+🔭  I’m currently pursuing a **Master in Informatics: Programming and System Architecture** at the **University of Oslo (UiO)**<br>🔍 I’m looking for opportunities in IT & software development<br>
 
 
 ## 🌐 Socials:
